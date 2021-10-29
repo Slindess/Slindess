@@ -18,7 +18,7 @@
 
 ---
 ### Follow Me</br>
-[![vk](https://img.shields.io/badge/-vkontakte-000000?style=for-the-badge&logo=vk&logoColor=699DE9)](https://vk.com/mikhailslinyakov) [![inst](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram&logoColor=8D049F)](https://www.instagram.com/mikhail_slinyakov/) [![telegram](https://img.shields.io/badge/-discord-000000?style=for-the-badge&logo=telegram&logoColor=FFFE00)](https://t.me/MikhailSlinyakov) [![facebook](https://img.shields.io/badge/-facebook-000000?style=for-the-badge&logo=facebook&logoColor=10FF00)](https://www.facebook.com/profile.php?id=100022714510477)
+[![vk](https://img.shields.io/badge/-vkontakte-000000?style=for-the-badge&logo=vk&logoColor=699DE9)](https://vk.com/mikhailslinyakov) [![inst](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram&logoColor=8D049F)](https://www.instagram.com/mikhail_slinyakov/) [![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram&logoColor=FFFE00)](https://t.me/MikhailSlinyakov) [![facebook](https://img.shields.io/badge/-facebook-000000?style=for-the-badge&logo=facebook&logoColor=10FF00)](https://www.facebook.com/profile.php?id=100022714510477)
 
 ---
 
