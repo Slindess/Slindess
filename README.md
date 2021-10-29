@@ -1,9 +1,9 @@
 [![Header](https://github.com/Slindess/Slindess/blob/main/assets/MS.png?raw=true)](https://vk.com/mikhailslinyakov)
 
 ## Software Engeneere
-#### From Russia, Moscow ![Javascript](https://img.shields.io/badge/--000000?style=for-the-badge&logo=moscowmetro)
+#### From Russia, Moscow
 ---
-##Languages and Tools
+## Languages and Tools</br>
 ![Javascript](https://img.shields.io/badge/-JAVASCRIPT-000000?style=for-the-badge&logo=javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-000000?style=for-the-badge&logo=jquery&logoColor=FF0000) ![Html](https://img.shields.io/badge/-Html-000000?style=for-the-badge&logo=HTML5&logoColor=FF7800) ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=0042FF)
 
@@ -17,7 +17,7 @@
 
 
 ---
-###Follow Me
+### Follow Me</br>
 [![vk](https://img.shields.io/badge/-vkontakte-000000?style=for-the-badge&logo=vk&logoColor=699DE9)](https://vk.com/mikhailslinyakov) [![inst](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram&logoColor=8D049F)](https://www.instagram.com/mikhail_slinyakov/) [![telegram](https://img.shields.io/badge/-discord-000000?style=for-the-badge&logo=telegram&logoColor=FFFE00)](https://t.me/MikhailSlinyakov) [![facebook](https://img.shields.io/badge/-facebook-000000?style=for-the-badge&logo=facebook&logoColor=10FF00)](https://www.facebook.com/profile.php?id=100022714510477)
 
 ---
