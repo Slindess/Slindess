@@ -1,6 +1,7 @@
 [![Header](https://github.com/Slindess/Slindess/blob/main/assets/MS.png?raw=true)](https://vk.com/mikhailslinyakov)
 
 ## Software Friend
+I'm interested in Software Architecture and Engineering.
 #### From Russia, Moscow
 ---
 ## Experience</br>
