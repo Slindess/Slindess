@@ -1,7 +1,8 @@
 [![Header](https://github.com/Slindess/Slindess/blob/main/assets/MS.png?raw=true)](https://vk.com/mikhailslinyakov)
 
-## Software Friend
-I'm interested in Software Architecture and Engineering.
+## Software Friend ![Javascript](https://img.shields.io/badge/--000000?style=for-the-badge&logo=mcdonalds&color=FFFFFF)  
+I'm interested in Software Architecture and Engineering.  
+I also like space observing and electronics.
 #### From Russia, Moscow
 ---
 ## Experience</br>
