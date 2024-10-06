@@ -51,7 +51,7 @@ I also like space observing and electronics.
 ---
 ## Degree</br>
 ![Static Badge](https://img.shields.io/badge/-BMSTU-000000?style=for-the-badge&logo=aeroflot&logoColor=FFFFFF)  
-<b>Second Year Software Engineering</b>
+<b>Third Year Software Engineering</b>
 
 ---
 ## Me</br>
