@@ -59,4 +59,4 @@ I also like space observing and electronics.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slindess&exclude_repo=Slindess.github.io&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slindess&exclude_repo=Slindess.github.io,NIR_5SEM,REPO3&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
