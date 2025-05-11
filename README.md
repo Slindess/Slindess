@@ -2,7 +2,9 @@
 
 ## Software Friend ![Javascript](https://img.shields.io/badge/--000000?style=for-the-badge&logo=mcdonalds&color=FFFFFF)  
 I'm interested in Software Architecture and Engineering.  
-I also like space observing and electronics.
+I also like space observing and electronics.  
+
+![my_friends](https://github.com/user-attachments/assets/39b037ce-8e30-46e8-b78a-fd5c2aa2fbc6)
 #### From Russia, Moscow
 ---
 ## Experience</br>
